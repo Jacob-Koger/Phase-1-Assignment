@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Phase1Assignment</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="ssText">THIS IS THE GREATEST SPLASH SCREEN OF ALL TIME</string>
+    <string name="webButton">Open the Web</string>
+</resources>
